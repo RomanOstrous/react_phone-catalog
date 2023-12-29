@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.db2f6b42.css",
-    "main.js": "./static/js/main.f2599be2.js",
+    "main.css": "./static/css/main.96d8b2dc.css",
+    "main.js": "./static/js/main.f5378911.js",
     "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
     "static/media/category-phones.png": "./static/media/category-phones.af93d992917380dfe206.png",
     "static/media/category-accessories.png": "./static/media/category-accessories.e47d6d6df68a6548e82b.png",
@@ -11,11 +11,13 @@
     "static/media/Arrow brcr.svg": "./static/media/Arrow brcr.5cebc7819527c921040b.svg",
     "static/media/Chevron (Arrow Down).svg": "./static/media/Chevron (Arrow Down).6a1c94bb9d6a68d1a098.svg",
     "index.html": "./index.html",
-    "main.db2f6b42.css.map": "./static/css/main.db2f6b42.css.map",
-    "main.f2599be2.js.map": "./static/js/main.f2599be2.js.map"
+    "static/media/close_FILL0_wght400_GRAD0_opsz24.svg": "./static/media/close_FILL0_wght400_GRAD0_opsz24.1ded1e99216871d2a3ae.svg",
+    "static/media/menu_FILL0_wght400_GRAD0_opsz24.svg": "./static/media/menu_FILL0_wght400_GRAD0_opsz24.0d3c31af19b9c297e945.svg",
+    "main.96d8b2dc.css.map": "./static/css/main.96d8b2dc.css.map",
+    "main.f5378911.js.map": "./static/js/main.f5378911.js.map"
   },
   "entrypoints": [
-    "static/css/main.db2f6b42.css",
-    "static/js/main.f2599be2.js"
+    "static/css/main.96d8b2dc.css",
+    "static/js/main.f5378911.js"
   ]
 }
